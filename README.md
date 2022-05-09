@@ -1,2 +1,2 @@
 # monai-tutorial
-MONAI, Pytorch, TorchIO and tutorials
+MONAI, Pytorch, TorchIO, Pytorch_lightning and tutorials
